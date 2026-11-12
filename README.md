@@ -6,6 +6,7 @@ Integrate **UHF RFID hardware** (handheld terminals, fixed readers, warehouse ga
 
 - **Solution overview & integration guide**: <https://www.spidersrfid.com/en/odoo-rfid/>
 - **Demo videos (Odoo RFID Integration playlist)**: <https://www.youtube.com/playlist?list=PLfLhtSVBU8rs>
+- **Technical write-up on dev.to**: [How We Sync UHF RFID Scanners into Odoo Inventory in Real Time](https://dev.to/spidersrfid/how-we-sync-uhf-rfid-scanners-into-odoo-inventory-in-real-time-2pdm)
 
 ## What you'll find at the links above
 
